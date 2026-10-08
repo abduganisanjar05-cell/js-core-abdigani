@@ -1,0 +1,12 @@
+{
+  "name": "js-core-abdigani",
+  "version": "1.0.0",
+  "description": "Lab 4 — JavaScript Core",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^5.0.3"
+  }
+}
